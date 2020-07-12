@@ -10,9 +10,8 @@ const (
 	loginErr = "Access denied to %q\n"
 	passErr  = "Invalid password %q\n"
 	accessOK = "Access granted to %q\n"
-
-	user = "an4kein"
-	pass = "1337"
+	user     = "an4kein"
+	pass     = "1337"
 )
 
 func main() {
